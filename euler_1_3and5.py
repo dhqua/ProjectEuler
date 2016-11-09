@@ -1,5 +1,7 @@
-#Find the sum of all natural numbers that are multiples of 3 and 5
-# Below the given max num
+'''
+Find the sum of all natural numbers that are multiples of 3 and 5
+Below the given max num
+'''
 
 def sum_mult_3_5(max_num):
     sum = 0
